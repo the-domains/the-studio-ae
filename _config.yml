@@ -1,0 +1,28 @@
+name: The Studio AE
+favicon: null
+layout_spectrum: 0.5705197546631098
+typography_spectrum: 0.31464915070682764
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.04819467826746404
+  lightness: 0.9027937441132963
+  saturation: 0.24942298722453415
+  rhythmicContrast: 0.29396824492141604
+purpose: []
